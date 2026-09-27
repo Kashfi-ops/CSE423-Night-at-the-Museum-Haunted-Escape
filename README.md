@@ -1,13 +1,10 @@
-# CSE423-Night-at-the-Museum-Haunted-Escape
-A Computer Graphics 3D survival-escape game built from scratch in Python and OpenGL. Explore a multi-room museum with ramps, gaps, and spike traps, fight AI enemies with wall-aware pathfinding, collect artifacts, manage stamina and ammo, and disable security to unlock the final escape.
-
-🏛️ Night at the Museum — 3D Haunted Museum Escape
+# 🏛️ Night at the Museum — 3D Haunted Museum Escape
 
 A 3D survival-escape game built from scratch in Python and OpenGL (PyOpenGL/GLUT). Explore a data-driven museum layout, survive enemy AI and environmental traps, manage resources under pressure, and escape before the alarm catches up with you.
 
 ## Description
 
-Night at the Museum is a survival-escape game set inside a haunted 3D museum, featuring physics-based movement, jump-and-gravity terrain traversal, and a real health/damage system fed by enemies, traps, and falls. Players restore power through generators, disable a security console under mounting alarm pressure, and navigate spike traps, lasers, and slippery hazards while fending off four distinct enemy types. The game layers in temporary power-ups, a proximity scanner for locating objectives, and switch-triggered systems that reshape the museum as the player progresses. With switchable First-Person, Third-Person, and Top-Down cameras plus a full HUD and objective tracker, it combines tense exploration with reactive, systemic gameplay.
+**Night at the Museum** is a survival-escape game set inside a haunted 3D museum, featuring physics-based movement, jump-and-gravity terrain traversal, and a real health/damage system fed by enemies, traps, and falls. Players restore power through generators, disable a security console under mounting alarm pressure, and navigate spike traps, lasers, and slippery hazards while fending off four distinct enemy types. The game layers in temporary power-ups, a proximity scanner for locating objectives, and switch-triggered systems that reshape the museum as the player progresses. With switchable First-Person, Third-Person, and Top-Down cameras plus a full HUD and objective tracker, it combines tense exploration with reactive, systemic gameplay.
 
 ---
 
