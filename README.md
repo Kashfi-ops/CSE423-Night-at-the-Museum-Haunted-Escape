@@ -1,4 +1,4 @@
-# 🏛️ Night at the Museum — 3D Haunted Museum Escape
+# 🏛️ Night at the Museum — 3D Haunted Escape
 
 A 3D survival-escape game built from scratch in Python and OpenGL (PyOpenGL/GLUT). Explore a data-driven museum layout, survive enemy AI and environmental traps, manage resources under pressure, and escape before the alarm catches up with you.
 
